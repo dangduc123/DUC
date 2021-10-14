@@ -1,0 +1,14 @@
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\bin\Debug\netcoreapp3.1\XepLoaiHocSinh.exe
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\bin\Debug\netcoreapp3.1\XepLoaiHocSinh.deps.json
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\bin\Debug\netcoreapp3.1\XepLoaiHocSinh.runtimeconfig.json
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\bin\Debug\netcoreapp3.1\XepLoaiHocSinh.runtimeconfig.dev.json
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\bin\Debug\netcoreapp3.1\XepLoaiHocSinh.dll
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\bin\Debug\netcoreapp3.1\XepLoaiHocSinh.pdb
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\netcoreapp3.1\XepLoaiHocSinh.csproj.AssemblyReference.cache
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\netcoreapp3.1\XepLoaiHocSinh.GeneratedMSBuildEditorConfig.editorconfig
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\netcoreapp3.1\XepLoaiHocSinh.AssemblyInfoInputs.cache
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\netcoreapp3.1\XepLoaiHocSinh.AssemblyInfo.cs
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\netcoreapp3.1\XepLoaiHocSinh.csproj.CoreCompileInputs.cache
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\netcoreapp3.1\XepLoaiHocSinh.dll
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\netcoreapp3.1\XepLoaiHocSinh.pdb
+D:\LaptrinhC#\XepLoaiHocSinh\XepLoaiHocSinh\obj\Debug\netcoreapp3.1\XepLoaiHocSinh.genruntimeconfig.cache
