@@ -1,0 +1,14 @@
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\bin\Debug\netcoreapp3.1\quanLySinhVien.exe
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\bin\Debug\netcoreapp3.1\quanLySinhVien.deps.json
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\bin\Debug\netcoreapp3.1\quanLySinhVien.runtimeconfig.json
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\bin\Debug\netcoreapp3.1\quanLySinhVien.runtimeconfig.dev.json
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\bin\Debug\netcoreapp3.1\quanLySinhVien.dll
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\bin\Debug\netcoreapp3.1\quanLySinhVien.pdb
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\obj\Debug\netcoreapp3.1\quanLySinhVien.csproj.AssemblyReference.cache
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\obj\Debug\netcoreapp3.1\quanLySinhVien.GeneratedMSBuildEditorConfig.editorconfig
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\obj\Debug\netcoreapp3.1\quanLySinhVien.AssemblyInfoInputs.cache
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\obj\Debug\netcoreapp3.1\quanLySinhVien.AssemblyInfo.cs
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\obj\Debug\netcoreapp3.1\quanLySinhVien.csproj.CoreCompileInputs.cache
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\obj\Debug\netcoreapp3.1\quanLySinhVien.dll
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\obj\Debug\netcoreapp3.1\quanLySinhVien.pdb
+D:\LaptrinhC#\quanLySinhVien\quanLySinhVien\obj\Debug\netcoreapp3.1\quanLySinhVien.genruntimeconfig.cache
