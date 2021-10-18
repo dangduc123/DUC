@@ -1,12 +1,20 @@
-﻿using System;
+using System;
 
 namespace dssv
 {
 
     class SinhVien // details of student with simple input/output methods
     {
-        string ten;
-        float dtb;
+        private string ten;
+        private float dtb;
+        public string Ten
+        {
+            get => ten; set => ten = value;
+        }
+        public float DTB
+        {
+            get => dtb;set => dtb = value;
+        }
 
         public void NhapSV()
         {
@@ -29,7 +37,7 @@ namespace dssv
         SinhVien[] a;
         int n;
 
-        public Mang() // hàm tạo
+        public Mang() // hàm khởi tạo
         { a = new SinhVien[100]; }
 
         public void NhapMang()
@@ -48,6 +56,22 @@ namespace dssv
         {
             for (int i = 0; i < n; i++) a[i].XuatSV();
         }
+        public void sapXep()
+        {
+            for(int i = 0; i< n-1;i++)
+            {
+                for(int j = i + 1;j<n;j++)
+                {
+                    if(a[i].DTB > a[j].DTB)
+                    {
+                        SinhVien temp = a[i];
+                        a[i] = a[j];
+                        a[j] = temp;
+                    }    
+                }    
+            }    
+        }
+
     }
 
     class ChuongTrinh
@@ -56,6 +80,9 @@ namespace dssv
         {
             Mang a = new Mang();
             a.NhapMang();
+            a.XuatMang();
+            a.sapXep();
+            Console.WriteLine("\nSau khi sap xep tang dan la:");
             a.XuatMang();
         }
     }
